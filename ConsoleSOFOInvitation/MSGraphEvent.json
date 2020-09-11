@@ -1,0 +1,65 @@
+{
+  "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#users('38c8f18b-687e-45de-85ca-785a8dcaf53c')/events/$entity",
+  "@odata.etag": "W/\"nD5G2N+nJE+GbAg6BvVvegACLz4vSw==\"",
+  "id": "AAMkADQyZmYwZmY2LTg5ODEtNGExMC1iMDhiLWIxOGYyZTA4NmU1MwBGAAAAAAC5gbGyCHKLRLtdg2caVTPUBwCcPkbY36ckT4ZsCDoG9W96AAAAAAENAACcPkbY36ckT4ZsCDoG9W96AAIvkn20AAA=",
+  "createdDateTime": "2020-09-08T07:38:15.8647698Z",
+  "lastModifiedDateTime": "2020-09-08T07:38:16.5623604Z",
+  "changeKey": "nD5G2N+nJE+GbAg6BvVvegACLz4vSw==",
+  "categories": [],
+  "transactionId": "c608f8bc-9281-4df2-c7bc-ba6e5c79899e",
+  "originalStartTimeZone": "Sri Lanka Standard Time",
+  "originalEndTimeZone": "Sri Lanka Standard Time",
+  "iCalUId": "040000008200E00074C5B7101A82E008000000009C688403B385D601000000000000000010000000F65790E1FF97A54BB93922A1B8BE5BDE",
+  "reminderMinutesBeforeStart": 15,
+  "isReminderOn": true,
+  "hasAttachments": false,
+  "subject": "ddfgdfshgdfs",
+  "bodyPreview": "fdhgdfhdfh",
+  "importance": "normal",
+  "sensitivity": "normal",
+  "isAllDay": false,
+  "isCancelled": false,
+  "isOrganizer": true,
+  "responseRequested": true,
+  "seriesMasterId": null,
+  "showAs": "busy",
+  "type": "singleInstance",
+  "webLink": "https://outlook.office365.com/owa/?itemid=AAMkADQyZmYwZmY2LTg5ODEtNGExMC1iMDhiLWIxOGYyZTA4NmU1MwBGAAAAAAC5gbGyCHKLRLtdg2caVTPUBwCcPkbY36ckT4ZsCDoG9W96AAAAAAENAACcPkbY36ckT4ZsCDoG9W96AAIvkn20AAA%3D&exvsurl=1&path=/calendar/item",
+  "onlineMeetingUrl": null,
+  "isOnlineMeeting": false,
+  "onlineMeetingProvider": "unknown",
+  "allowNewTimeProposals": true,
+  "recurrence": null,
+  "onlineMeeting": null,
+  "responseStatus": {
+    "response": "organizer",
+    "time": "0001-01-01T00:00:00Z"
+  },
+  "body": {
+    "contentType": "html",
+    "content": "<html>\r\n<head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\r\n<meta content=\"text/html; charset=us-ascii\">\r\n</head>\r\n<body>\r\n<div style=\"font-family:Calibri,Arial,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\">\r\nfdhgdfhdfh</div>\r\n</body>\r\n</html>\r\n"
+  },
+  "start": {
+    "dateTime": "2020-09-17T02:30:00.0000000",
+    "timeZone": "UTC"
+  },
+  "end": {
+    "dateTime": "2020-09-17T03:00:00.0000000",
+    "timeZone": "UTC"
+  },
+  "location": {
+    "displayName": "",
+    "locationType": "default",
+    "uniqueIdType": "unknown",
+    "address": {},
+    "coordinates": {}
+  },
+  "locations": [],
+  "attendees": [],
+  "organizer": {
+    "emailAddress": {
+      "name": "Thivaharan Varatharajan",
+      "address": "Thivaharan.Varatharajan@superoffice.com"
+    }
+  }
+}

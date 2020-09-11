@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+METHOD:REQUEST
+PRODID:SOFO Invitation
+VERSION:2.0
+BEGIN:VEVENT
+ATTENDEE;CN=Thivaharan Varatharajan;PARTSTAT=REQ-PARTICIPANT;RSVP=TRUE:mai
+ lto:ThivaharanV@99x.lk
+ATTENDEE;CN=Thivaharan Varatharajan;PARTSTAT=REQ-PARTICIPANT;RSVP=TRUE:mai
+ lto:Thivaharan.Varatharajan@superoffice.com
+ATTENDEE;CN=thivaharan28@gmail.com;PARTSTAT=REQ-PARTICIPANT;RSVP=TRUE:mail
+ to:thivaharan28@gmail.com
+DESCRIPTION:FYI PoC SOFO Invitations\n\nLorem ipsum dolor sit amet\, conse
+ ctetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. 
+ Cum sociis natoque penatibus et magnis dis parturient montes\, nascetur r
+ idiculus mus. Donec quam felis\, ultricies nec\, pe
+DTEND:20200912T030000Z
+DTSTAMP:20200907T110321Z
+DTSTART:20200912T023000Z
+LOCATION:Norwayne High School
+ORGANIZER;CN=Thivaharan Varatharajan:mailto:ThivaharanV@99x.lk
+RRULE:FREQ=DAILY;COUNT=5
+SEQUENCE:0
+SUMMARY:PoC SOFO Invitations
+UID:040000008200E00074C5B7101A82E008000000007D0B7675E984D60100000000000000
+ 00100000005AED3E0195969648AF035647CB6D94AD
+BEGIN:VALARM
+ACTION:DISPLAY
+SUMMARY:PoC SOFO Invitations
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

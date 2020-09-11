@@ -1,0 +1,164 @@
+{
+  "@odata.context": "https://outlook.office.com/api/v2.0/$metadata#Me/Events/$entity",
+  "@odata.id": "https://outlook.office.com/api/v2.0/Users('38c8f18b-687e-45de-85ca-785a8dcaf53c@caef7785-c073-4453-8b47-6432b6b5b10f')/Events('AAMkADQyZmYwZmY2LTg5ODEtNGExMC1iMDhiLWIxOGYyZTA4NmU1MwBGAAAAAAC5gbGyCHKLRLtdg2caVTPUBwCcPkbY36ckT4ZsCDoG9W96AAAAAAENAACcPkbY36ckT4ZsCDoG9W96AAIvkn2xAAA=')",
+  "@odata.etag": "W/\"nD5G2N+nJE+GbAg6BvVvegACLz33Mg==\"",
+  "Id": "AAMkADQyZmYwZmY2LTg5ODEtNGExMC1iMDhiLWIxOGYyZTA4NmU1MwBGAAAAAAC5gbGyCHKLRLtdg2caVTPUBwCcPkbY36ckT4ZsCDoG9W96AAAAAAENAACcPkbY36ckT4ZsCDoG9W96AAIvkn2xAAA=",
+  "CreatedDateTime": "2020-09-07T07:42:01.9821623Z",
+  "LastModifiedDateTime": "2020-09-07T07:42:22.5738061Z",
+  "ChangeKey": "nD5G2N+nJE+GbAg6BvVvegACLz33Mg==",
+  "Categories": [],
+  "TransactionId": null,
+  "OriginalStartTimeZone": "Sri Lanka Standard Time",
+  "OriginalEndTimeZone": "Sri Lanka Standard Time",
+  "iCalUId": "040000008200E00074C5B7101A82E008000000007D0B7675E984D6010000000000000000100000005AED3E0195969648AF035647CB6D94AD",
+  "ReminderMinutesBeforeStart": 15,
+  "IsReminderOn": true,
+  "HasAttachments": true,
+  "Subject": "PoC SOFO Invitations",
+  "BodyPreview": "FYI PoC SOFO Invitations\r\n\r\nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pe",
+  "Importance": "Normal",
+  "Sensitivity": "Normal",
+  "IsAllDay": false,
+  "IsCancelled": false,
+  "IsOrganizer": false,
+  "IsRoomRequested": false,
+  "AutoRoomBookingStatus": "None",
+  "ResponseRequested": true,
+  "SeriesMasterId": null,
+  "ShowAs": "Busy",
+  "Type": "SeriesMaster",
+  "WebLink": "https://outlook.office365.com/owa/?itemid=AAMkADQyZmYwZmY2LTg5ODEtNGExMC1iMDhiLWIxOGYyZTA4NmU1MwBGAAAAAAC5gbGyCHKLRLtdg2caVTPUBwCcPkbY36ckT4ZsCDoG9W96AAAAAAENAACcPkbY36ckT4ZsCDoG9W96AAIvkn2xAAA%3D&exvsurl=1&path=/calendar/item",
+  "OnlineMeetingUrl": "https://meet.lync.com/99xtech-99x/thivaharanv/UCUH7BNJ",
+  "IsOnlineMeeting": true,
+  "OnlineMeetingProvider": "SkypeForBusiness",
+  "AllowNewTimeProposals": true,
+  "OccurrenceId": null,
+  "IsDraft": false,
+  "ResponseStatus": {
+    "Response": "Accepted",
+    "Time": "2020-09-07T07:42:22.3849189Z"
+  },
+  "Body": {
+    "ContentType": "HTML",
+    "Content": "<html>\r\n<head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\r\n<meta content=\"text/html; charset=Windows-1252\">\r\n</head>\r\n<body>\r\n<div>FYI PoC SOFO Invitations<br>\r\n</div>\r\n<div><br>\r\n</div>\r\n<div>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis,\r\n sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum\r\n semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet.\r\n Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar,\r\n hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna.\r\n Sed consequat, leo eget bibendum sodales, augue velit cursus nunc.</div>\r\n<div><br>\r\n</div>\r\n<div><img size=\"3344\" tabindex=\"-1\" src=\"cid:53f2b18e-b54e-4733-a65c-e3d6a18df33a\" style=\"max-width:100%\"><br>\r\n</div>\r\n<br>\r\n<font face=\"Calibri\" size=\"1\" color=\"#404040\"><span style=\"\">.........................................................................................................................................</span></font><br>\r\n<font face=\"Calibri\" size=\"4\"><span style=\"font-size:16pt\"><a href=\"https://meet.lync.com/99xtech-99x/thivaharanv/UCUH7BNJ\" target=\"_blank\">Join online meeting</a></span></font><br>\r\n<font face=\"Calibri\" size=\"1\" color=\"#404040\"><span style=\"font-size:8pt\">.........................................................................................................................................</span></font><br>\r\n.......................................................................................................................................................................................................................................................................................................................................................................................\r\n “This communication should be treated as confidential, and is directed to and for the use of the addressee only, unless otherwise agreed expressly in writing by 99X Technology Limited. If this message reaches any person other than the intended recipient, we\r\n request such person to preserve its confidentiality, not reproduce copy, disseminate or in any manner distribute it. We further request such recipient to notify us immediately by email that such message has been received and delete the original message. Please\r\n note that we reserve the right to monitor all email communications through our network.”\r\n</body>\r\n</html>\r\n"
+  },
+  "Start": {
+    "DateTime": "2020-09-12T02:30:00.0000000",
+    "TimeZone": "UTC"
+  },
+  "End": {
+    "DateTime": "2020-09-12T03:00:00.0000000",
+    "TimeZone": "UTC"
+  },
+  "Location": {
+    "DisplayName": "Norwayne High School",
+    "LocationUri": "https://www.bingapis.com/api/v6/localbusinesses/YN681x401324549?setLang=en",
+    "LocationType": "LocalBusiness",
+    "UniqueId": "https://www.bingapis.com/api/v6/localbusinesses/YN681x401324549?setLang=en",
+    "UniqueIdType": "Bing",
+    "Address": {
+      "Type": "Unknown",
+      "Street": "350 S Main St",
+      "City": "Creston",
+      "State": "OH",
+      "CountryOrRegion": "United States",
+      "PostalCode": "44217"
+    },
+    "Coordinates": {
+      "Latitude": 40.9655,
+      "Longitude": -81.9025
+    }
+  },
+  "Locations": [
+    {
+      "DisplayName": "Norwayne High School",
+      "LocationUri": "https://www.bingapis.com/api/v6/localbusinesses/YN681x401324549?setLang=en",
+      "LocationType": "LocalBusiness",
+      "UniqueId": "https://www.bingapis.com/api/v6/localbusinesses/YN681x401324549?setLang=en",
+      "UniqueIdType": "Bing",
+      "Address": {
+        "Type": "Unknown",
+        "Street": "350 S Main St",
+        "City": "Creston",
+        "State": "OH",
+        "CountryOrRegion": "United States",
+        "PostalCode": "44217"
+      },
+      "Coordinates": {
+        "Latitude": 40.9655,
+        "Longitude": -81.9025
+      }
+    }
+  ],
+  "Recurrence": {
+    "Pattern": {
+      "Type": "Weekly",
+      "Interval": 5,
+      "Month": 0,
+      "DayOfMonth": 0,
+      "DaysOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Thursday",
+        "Saturday"
+      ],
+      "FirstDayOfWeek": "Sunday",
+      "Index": "First"
+    },
+    "Range": {
+      "Type": "EndDate",
+      "StartDate": "2020-09-12",
+      "EndDate": "2021-03-06",
+      "RecurrenceTimeZone": "",
+      "NumberOfOccurrences": 0
+    }
+  },
+  "AutoRoomBookingOptions": null,
+  "Attendees": [
+    {
+      "Type": "Required",
+      "Status": {
+        "Response": "None",
+        "Time": "0001-01-01T00:00:00Z"
+      },
+      "EmailAddress": {
+        "Name": "Thivaharan Varatharajan",
+        "Address": "ThivaharanV@99x.lk"
+      }
+    },
+    {
+      "Type": "Required",
+      "Status": {
+        "Response": "Accepted",
+        "Time": "0001-01-01T00:00:00Z"
+      },
+      "EmailAddress": {
+        "Name": "Thivaharan Varatharajan",
+        "Address": "Thivaharan.Varatharajan@superoffice.com"
+      }
+    },
+    {
+      "Type": "Required",
+      "Status": {
+        "Response": "None",
+        "Time": "0001-01-01T00:00:00Z"
+      },
+      "EmailAddress": {
+        "Name": "thivaharan28@gmail.com",
+        "Address": "thivaharan28@gmail.com"
+      }
+    }
+  ],
+  "Organizer": {
+    "EmailAddress": {
+      "Name": "Thivaharan Varatharajan",
+      "Address": "ThivaharanV@99x.lk"
+    }
+  },
+  "OnlineMeeting": {
+    "JoinUrl": "https://meet.lync.com/99xtech-99x/thivaharanv/UCUH7BNJ",
+    "QuickDial": ""
+  },
+  "Calendar@odata.associationLink": "https://outlook.office.com/api/v2.0/Users('38c8f18b-687e-45de-85ca-785a8dcaf53c@caef7785-c073-4453-8b47-6432b6b5b10f')/Calendars('AAMkADQyZmYwZmY2LTg5ODEtNGExMC1iMDhiLWIxOGYyZTA4NmU1MwAuAAAAAAC5gbGyCHKLRLtdg2caVTPUAQCcPkbY36ckT4ZsCDoG9W96AAAAAAENAAA=')/$ref",
+  "Calendar@odata.navigationLink": "https://outlook.office.com/api/v2.0/Users('38c8f18b-687e-45de-85ca-785a8dcaf53c@caef7785-c073-4453-8b47-6432b6b5b10f')/Calendars('AAMkADQyZmYwZmY2LTg5ODEtNGExMC1iMDhiLWIxOGYyZTA4NmU1MwAuAAAAAAC5gbGyCHKLRLtdg2caVTPUAQCcPkbY36ckT4ZsCDoG9W96AAAAAAENAAA=')"
+}
