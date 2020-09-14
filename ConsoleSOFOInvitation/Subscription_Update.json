@@ -1,0 +1,18 @@
+{
+  "value": [
+    {
+      "subscriptionId": "08bacd56-bb12-4726-87bf-b38703c82fee",
+      "subscriptionExpirationDateTime": "2020-09-12T03:10:08-07:00",
+      "changeType": "updated",
+      "resource": "Users/38c8f18b-687e-45de-85ca-785a8dcaf53c/Events/AAMkADQyZmYwZmY2LTg5ODEtNGExMC1iMDhiLWIxOGYyZTA4NmU1MwBGAAAAAAC5gbGyCHKLRLtdg2caVTPUBwCcPkbY36ckT4ZsCDoG9W96AAAAAAENAACcPkbY36ckT4ZsCDoG9W96AAIvkn2xAAA=",
+      "resourceData": {
+        "@odata.type": "#Microsoft.Graph.Event",
+        "@odata.id": "Users/38c8f18b-687e-45de-85ca-785a8dcaf53c/Events/AAMkADQyZmYwZmY2LTg5ODEtNGExMC1iMDhiLWIxOGYyZTA4NmU1MwBGAAAAAAC5gbGyCHKLRLtdg2caVTPUBwCcPkbY36ckT4ZsCDoG9W96AAAAAAENAACcPkbY36ckT4ZsCDoG9W96AAIvkn2xAAA=",
+        "@odata.etag": "W/\"DwAAABYAAACcPkbY36ckT4ZsCDoG9W96AAIykQPL\"",
+        "id": "AAMkADQyZmYwZmY2LTg5ODEtNGExMC1iMDhiLWIxOGYyZTA4NmU1MwBGAAAAAAC5gbGyCHKLRLtdg2caVTPUBwCcPkbY36ckT4ZsCDoG9W96AAAAAAENAACcPkbY36ckT4ZsCDoG9W96AAIvkn2xAAA="
+      },
+      "clientState": null,
+      "tenantId": "caef7785-c073-4453-8b47-6432b6b5b10f"
+    }
+  ]
+}

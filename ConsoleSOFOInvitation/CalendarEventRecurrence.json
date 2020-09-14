@@ -1,0 +1,128 @@
+{
+  "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#users('38c8f18b-687e-45de-85ca-785a8dcaf53c')/events/$entity",
+  "@odata.etag": "W/\"nD5G2N+nJE+GbAg6BvVvegACMpED9Q==\"",
+  "id": "AAMkADQyZmYwZmY2LTg5ODEtNGExMC1iMDhiLWIxOGYyZTA4NmU1MwBGAAAAAAC5gbGyCHKLRLtdg2caVTPUBwCcPkbY36ckT4ZsCDoG9W96AAAAAAENAACcPkbY36ckT4ZsCDoG9W96AAIy5lFXAAA=",
+  "createdDateTime": "2020-09-11T10:29:55.0860403Z",
+  "lastModifiedDateTime": "2020-09-11T10:29:55.7066865Z",
+  "changeKey": "nD5G2N+nJE+GbAg6BvVvegACMpED9Q==",
+  "categories": [],
+  "transactionId": "7c5b4a63-ed7c-cdcb-0f2b-723224455fdd",
+  "originalStartTimeZone": "Sri Lanka Standard Time",
+  "originalEndTimeZone": "Sri Lanka Standard Time",
+  "iCalUId": "040000008200E00074C5B7101A82E008000000007D1B927D2688D60100000000000000001000000021B4959AFE0838499E6E8F7AD56EFCE0",
+  "reminderMinutesBeforeStart": 15,
+  "isReminderOn": true,
+  "hasAttachments": false,
+  "subject": "Recurrence Appointments ",
+  "bodyPreview": "Desc Recurrence Appointments",
+  "importance": "normal",
+  "sensitivity": "normal",
+  "isAllDay": false,
+  "isCancelled": false,
+  "isOrganizer": true,
+  "responseRequested": true,
+  "seriesMasterId": null,
+  "showAs": "busy",
+  "type": "seriesMaster",
+  "webLink": "https://outlook.office365.com/owa/?itemid=AAMkADQyZmYwZmY2LTg5ODEtNGExMC1iMDhiLWIxOGYyZTA4NmU1MwBGAAAAAAC5gbGyCHKLRLtdg2caVTPUBwCcPkbY36ckT4ZsCDoG9W96AAAAAAENAACcPkbY36ckT4ZsCDoG9W96AAIy5lFXAAA%3D&exvsurl=1&path=/calendar/item",
+  "onlineMeetingUrl": null,
+  "isOnlineMeeting": false,
+  "onlineMeetingProvider": "unknown",
+  "allowNewTimeProposals": true,
+  "onlineMeeting": null,
+  "responseStatus": {
+    "response": "organizer",
+    "time": "0001-01-01T00:00:00Z"
+  },
+  "body": {
+    "contentType": "html",
+    "content": "<html>\r\n<head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\r\n<meta content=\"text/html; charset=us-ascii\">\r\n</head>\r\n<body>\r\n<div style=\"font-family:Calibri,Arial,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0); background-color:rgb(255,255,255)\">\r\nDesc&nbsp;Recurrence Appointments </div>\r\n</body>\r\n</html>\r\n"
+  },
+  "start": {
+    "dateTime": "2020-09-18T14:00:00.0000000",
+    "timeZone": "UTC"
+  },
+  "end": {
+    "dateTime": "2020-09-18T15:30:00.0000000",
+    "timeZone": "UTC"
+  },
+  "location": {
+    "displayName": "Norwayne High School",
+    "locationUri": "https://www.bingapis.com/api/v6/localbusinesses/YN681x401324549?setLang=en",
+    "locationType": "default",
+    "uniqueId": "Norwayne High School",
+    "uniqueIdType": "private",
+    "address": {
+      "street": "350 S Main St",
+      "city": "Creston",
+      "state": "OH",
+      "countryOrRegion": "United States",
+      "postalCode": "44217"
+    },
+    "coordinates": {
+      "latitude": 40.9655,
+      "longitude": -81.9025
+    }
+  },
+  "locations": [
+    {
+      "displayName": "Norwayne High School",
+      "locationUri": "https://www.bingapis.com/api/v6/localbusinesses/YN681x401324549?setLang=en",
+      "locationType": "default",
+      "uniqueId": "Norwayne High School",
+      "uniqueIdType": "private",
+      "address": {
+        "street": "350 S Main St",
+        "city": "Creston",
+        "state": "OH",
+        "countryOrRegion": "United States",
+        "postalCode": "44217"
+      },
+      "coordinates": {
+        "latitude": 40.9655,
+        "longitude": -81.9025
+      }
+    }
+  ],
+  "recurrence": {
+    "pattern": {
+      "type": "weekly",
+      "interval": 2,
+      "month": 0,
+      "dayOfMonth": 0,
+      "daysOfWeek": [
+        "wednesday",
+        "friday",
+        "sunday"
+      ],
+      "firstDayOfWeek": "sunday",
+      "index": "first"
+    },
+    "range": {
+      "type": "endDate",
+      "startDate": "2020-09-18",
+      "endDate": "2020-12-17",
+      "recurrenceTimeZone": "Sri Lanka Standard Time",
+      "numberOfOccurrences": 0
+    }
+  },
+  "attendees": [
+    {
+      "type": "required",
+      "status": {
+        "response": "none",
+        "time": "0001-01-01T00:00:00Z"
+      },
+      "emailAddress": {
+        "name": "Thivaharan Varatharajan",
+        "address": "ThivaharanV@99x.lk"
+      }
+    }
+  ],
+  "organizer": {
+    "emailAddress": {
+      "name": "Thivaharan Varatharajan",
+      "address": "Thivaharan.Varatharajan@superoffice.com"
+    }
+  }
+}
